@@ -1,0 +1,12 @@
+{
+  "total_images": 31783,
+  "total_captions": 158915,
+  "train_images": 25426,
+  "val_images": 3178,
+  "test_images": 3179,
+  "train_captions": 127130,
+  "val_captions": 15890,
+  "test_captions": 15895,
+  "avg_caption_length": 12.250656011075103,
+  "vocab_size_estimate": 19772
+}
